@@ -1,0 +1,13 @@
+Introdução:
+
+Apresentação da história e do contexto.
+Primeira decisão apresentada ao jogador.
+
+Árvore de Decisões:
+
+Cada decisão leva a uma nova situação ou diretamente a um final.
+Use if, elif e else para guiar o fluxo.
+
+Finais Alternativos:
+
+Crie três desfechos distintos, baseados nas escolhas ao longo do jogo.

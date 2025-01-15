@@ -1,0 +1,44 @@
+Título:
+A Jornada do Aventureiro
+
+Contexto Inicial
+Você é um aventureiro em busca do lendário tesouro de Eldoria, escondido em uma floresta mágica cheia de desafios e perigos. Ao longo da jornada, suas decisões determinarão seu destino.
+
+Introdução
+O jogador começa em frente a uma bifurcação na floresta, com dois caminhos diferentes. Cada escolha levará a novas situações, e o jogo possui três finais alternativos baseados nas decisões.
+
+Fluxo do Jogo
+1. Primeira Decisão: Escolha do Caminho
+Cenário: Você encontra dois caminhos: um sombrio e misterioso à esquerda e outro iluminado e tranquilo à direita.
+Decisão:
+Esquerda: Você entra em uma trilha escura e logo ouve rugidos assustadores.
+Direita: Você segue por um caminho tranquilo que leva a um lindo lago.
+2. Seguindo pelo Caminho da Esquerda
+Encontro: Um monstro aparece no meio da trilha!
+Decisão:
+Lutar: Você derrota o monstro e avança, encontrando um baú de tesouro (Final Heroico).
+Fugir: Você escapa correndo, mas se perde na floresta e nunca encontra o tesouro (Final Perdido).
+3. Seguindo pelo Caminho da Direita
+Encontro: Você chega a um lago mágico. Ao longe, vê uma ilha brilhando.
+Decisão:
+Atravessar o Lago: Você encontra o tesouro escondido na ilha (Final Rico).
+Seguir pela Margem: Você encontra uma vila pacífica e decide abandonar a aventura para viver entre os moradores (Final Tranquilo).
+Finais Alternativos
+Final Heroico: O jogador derrota o monstro e encontra o tesouro.
+
+Mensagem: "Parabéns! Sua coragem foi recompensada com o lendário tesouro de Eldoria!"
+Final Perdido: O jogador foge, mas se perde na floresta para sempre.
+
+Mensagem: "Você sobreviveu, mas nunca encontrou o tesouro. A aventura ficará para sempre em sua memória."
+Final Tranquilo: O jogador encontra a vila e decide viver uma vida pacífica.
+
+Mensagem: "Você escolheu a paz e encontrou felicidade na simplicidade."
+Final Rico: O jogador atravessa o lago e encontra o tesouro.
+
+Mensagem: "Sua persistência o levou à riqueza além da imaginação. O tesouro de Eldoria é seu!"
+Estrutura do Código
+O código seguirá o roteiro, com:
+
+Variáveis de Controle: Para armazenar decisões do jogador.
+Condicionais (if/else): Para determinar os próximos passos e finais.
+Funções: Para modularizar diferentes partes do jogo (ex.: introdução, finais).
